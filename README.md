@@ -32,6 +32,7 @@ theme: readthedocs
 ## Creating empty markdown files for each chapters, for example
 ``` 
 cd testmkdocs/docs
+touch Chapter01-Choosing-Open-Source.md
 touch Chapter02-Starting-New-Project.md
 touch Chapter03-Existing-Projects.md
 touch Chapter04-Code-First-Release.md
