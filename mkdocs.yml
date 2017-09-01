@@ -1,0 +1,14 @@
+site_name: The Field Guide to Open Source in the Newsroom
+pages:
+    - Home: index.md
+    - Chapter 1 - Choosing Open Source, Getting Buy-In: Chapter01-Choosing-Open-Source.md
+    - Chapter 2 - Starting a New Project: Chapter02-Starting-New-Project.md
+    - Chapter 3 - Opening Up An Existing Project: Chapter03-Existing-Projects.md
+    - Chapter 4 - Code & Getting To The First Release: Chapter04-Code-First-Release.md
+    - Chapter 5 - Documentation: Chapter05-Documentation.md
+    - Chapter 6 - Working With Community: Chapter06-Community.md
+    - Chapter 7 - Managing Releases: Chapter07-Releases.md
+    - Chapter 8 - Handoffs & Sunsets: Chapter08-Handoffs-Sunsets.md
+    - Contribute to this guide: contributing.md
+    - Help: help.md
+theme: readthedocs
